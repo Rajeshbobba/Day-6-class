@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D1BD57C-74DF-4F1D-99D6-B3D0B67ADEDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sign function prog</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF54C9DF-0208-4015-ABAB-633F83D1E4BE</key>
+		<string>https://github.com/Rajeshbobba/Day-6-class.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sign function prog/Sign function prog.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF54C9DF-0208-4015-ABAB-633F83D1E4BE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rajeshbobba/Day-6-class.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF54C9DF-0208-4015-ABAB-633F83D1E4BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF54C9DF-0208-4015-ABAB-633F83D1E4BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Day-6-class</string>
+		</dict>
+	</array>
+</dict>
+</plist>
